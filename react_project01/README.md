@@ -1,0 +1,1 @@
+simple counter project showcasing react hooks and dynamic UI handling
